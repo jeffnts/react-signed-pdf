@@ -1,10 +1,12 @@
 ## React Signed PDF
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dfcee20c-9774-44e3-a438-26b1398fe8d6/deploy-status)](https://app.netlify.com/sites/react-signed-pdf/deploys)
+
 ### Description
-#### It is a project to provides Pdf documents signatures, to check it go to []().
+#### It is a project to provides Pdf documents signatures, to check it go to [https://react-signed-pdf.netlify.com/](https://react-signed-pdf.netlify.com/).
 
 ### Prerequisites
-#### You have to NodeJs installed on your machine. If you don't have it,[download here.](https://nodejs.org/en/) 
+#### You have to have NodeJs installed on your machine. If you don't have it,[download here.](https://nodejs.org/en/) 
 
 ### Installation
 
@@ -13,7 +15,7 @@
 git clone https://github.com/jeffnts/react-signed-pdf.git
 ```
 
-#### 2 - Enter inside the folder
+#### 2 - Go to the project folder
 ```$xslt
 cd react-signed-pdf
 ```
